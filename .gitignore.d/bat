@@ -1,0 +1,9 @@
+*
+!/.README.d
+!/.README.d/bat.md
+!/.config
+!/.config/bat
+!/.config/bat/themes
+!/.config/bat/themes/*
+!/.gitignore.d
+!/.gitignore.d/bat
